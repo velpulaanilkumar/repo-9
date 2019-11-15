@@ -1,0 +1,27 @@
+log
+git init
+git config --global user.name "devops"
+git config --global user.email "devops@gmail.com"
+touch f1
+git status
+git add file-name
+git commit -m "label"
+git log
+git clone path/of/c-repo (repo-9)
+ls
+cd repo-9
+touch f2 f3
+git add .
+git commit -m "label" file-name
+git log
+git push
+(username & passwd) 
+git show cid
+git log -2
+git log -1
+git log --oneline
+git log --oneline -2
+git log --author=devops
+git log --since=yy-mm-dd
+git log --until=yy-mm-dd
+git log --oneline --decarate
