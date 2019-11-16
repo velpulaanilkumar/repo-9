@@ -25,3 +25,18 @@ git log --author=devops
 git log --since=yy-mm-dd
 git log --until=yy-mm-dd
 git log --oneline --decarate
+git clone https://github.com/velpulaanilkumar/repo-9.git
+ls
+cd repo-9
+ls
+
+touch name
+git status
+git add name
+git commit -m "label"
+git log
+git push
+git pull
+git push
+
+
