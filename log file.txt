@@ -39,4 +39,18 @@ git push
 git pull
 git push
 
+branches
+=======
+git branch master-1
+git branch
+git checkout master-1
+touch f123
+git add
+commit
+gitcheckout master
+git merge master-1
+master-1
+git push path/of/crepo master-1
+
+
 
